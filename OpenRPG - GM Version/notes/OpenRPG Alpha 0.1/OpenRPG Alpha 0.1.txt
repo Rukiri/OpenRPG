@@ -1,0 +1,6 @@
+== -- Open RPG -- ==
+Alpha Version 0.1
+
+== Features == 
+-- RPG Player Database 
+-- Character Movement 
